@@ -54,7 +54,7 @@ This is a Hotel Management System implemented in Java with JavaFX for the user i
 
 ## Contributors
 
-- [Sai Pone Kha Aung]([https://github.com/Sai-Pone-Kha-Aung])
+- [Sai Pone Kha Aung](https://github.com/Sai-Pone-Kha-Aung)
   
 ## License
 
